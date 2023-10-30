@@ -23,6 +23,8 @@ We came down on 5 key points that our dashboard was to convey:
 
 Each of the 5 key points above we're actioned with their own visualization. In addition, we've allowed for filtering, allowing users to drilldown on details that matter to them most.
 
+Our dashboard can be seen in the 'TableauPresentationOption2AirbnbAmirmansourOliver.pdf' file. Should you wish to download the interactive tableau workbook version, it can be seen in the
+
 ## Results
 As a whole, we noticed that:
 
