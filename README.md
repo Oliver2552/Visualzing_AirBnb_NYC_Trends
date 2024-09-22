@@ -1,4 +1,4 @@
-# Final-Project-Tableau - AirBnb NYC
+# AirBnb NYC Project Visualized with Tableau
 
 ## Project/Goals
 The aim of this project was to explore AirBnb NYC listings' data and using Tableau, create impactful visualizations, considering key points and trends. 
