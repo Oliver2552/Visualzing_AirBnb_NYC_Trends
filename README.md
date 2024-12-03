@@ -7,7 +7,7 @@ More specifically, we focused on better understanding the distribution of room t
 
 ## Process
 ### Step 1 - Importing
-Importing the .xls datafile and examining all possible columns. We wanted to get a feel of what types of variables to expect. We also wanted to ensure each column/variable was the correct datatype (string, int, date etc...)
+Importing the 'airbnb.xls' datafile and examining all possible columns. We wanted to get a feel of what types of variables to expect. We also wanted to ensure each column/variable was the correct datatype (string, int, date etc...)
 
 ### Step 2 - General 'EDA'
 Using the term EDA loosely here, we worked to just create many visualisations considering different types of variables and notice any trends. We did this to better understand our data. Throw it all at the wall and see what sticks...
